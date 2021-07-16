@@ -1,2 +1,2 @@
 #!/bin/sh
-java -jar ./build/libs/demo-0.0.1-SNAPSHOT.jar
+java -jar ./demo-0.0.1-SNAPSHOT.jar
